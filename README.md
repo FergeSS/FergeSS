@@ -1,22 +1,66 @@
-<h1 align="center">Привет, Я Александр</h1>
-<h3 align="center">iOS-разработчик на Objective-c и Swift, также занимаюсь мультиплатформенной разработкой на Kotlin Multiplatform</h3>
+<h1 align="center">Привет! Я Александр 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fergess&label=Profile%20views&color=0e75b6&style=flat" alt="fergess" /> </p>
+<h3 align="center">iOS & Kotlin Multiplatform Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fergess" alt="fergess" /></a> </p>
+<p align="center">
+  Разрабатываю мобильные приложения для iOS на Swift и Objective-C<br/>
+  и кроссплатформенные приложения на Kotlin Multiplatform.
+</p>
 
-- 🔭 В данный момент мой главный проект [CiteC](https://github.com/citec-spbu/CiteC)
+<p align="center">
+  <a href="mailto:ferges@ios-mobiledev.ru">
+    <img src="https://img.shields.io/badge/Email-ferges%40ios--mobiledev.ru-0A84FF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=fergess&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile views" />
+</p>
 
-- 🌱 Сейчас активно изучаю **Swift и SwiftUI**
+---
 
-- 📫 Связь со мной **ferges@ios-mobiledev.ru**
+### Обо мне
 
+- 📱 Создаю нативные iOS-приложения на **Swift, SwiftUI, UIKit и Objective-C**
+- 🌍 Разрабатываю общую бизнес-логику и интерфейсы с помощью **Kotlin Multiplatform**
+- 🚀 Работаю над **[CiteC](https://github.com/citec-spbu/CiteC)** — мобильным клиентом для Android и iOS
+- 🌱 Углубляюсь в **SwiftUI, архитектуру мобильных приложений и Compose Multiplatform**
+- 📫 Для связи: **[ferges@ios-mobiledev.ru](mailto:ferges@ios-mobiledev.ru)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+### Технологии
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fergess&show_icons=true&locale=en&layout=compact" alt="fergess" /></p>
+#### Mobile
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fergess&show_icons=true&locale=en" alt="fergess" /></p>
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fergess&" alt="fergess" /></p>
+#### Tools
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Главный проект
+
+#### [CiteC](https://github.com/citec-spbu/CiteC)
+
+Kotlin Multiplatform-клиент для Android и iOS. Приложение помогает участникам
+IT-проектов просматривать проекты, следить за рейтингом и статистикой активности,
+а также управлять профилем и обратной связью.
+
+`Kotlin Multiplatform` · `Compose Multiplatform` · `Swift` · `Android` · `iOS`
+
+### GitHub-статистика
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fergess&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fergess&theme=transparent" alt="Languages by repository" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fergess&theme=transparent&hide_border=true&locale=ru" alt="GitHub streak" />
+</p>
