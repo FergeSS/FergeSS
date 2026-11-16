@@ -22,7 +22,6 @@
 - 🌍 Разрабатываю общую бизнес-логику и интерфейсы с помощью **Kotlin Multiplatform**
 - 🚀 Работаю над **[CiteC](https://github.com/citec-spbu/CiteC)** — мобильным клиентом для Android и iOS
 - 🌱 Углубляюсь в **SwiftUI, архитектуру мобильных приложений и Compose Multiplatform**
-- 📫 Для связи: **[ferges@ios-mobiledev.ru](mailto:ferges@ios-mobiledev.ru)**
 
 ### Технологии
 
